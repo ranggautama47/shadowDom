@@ -58,7 +58,7 @@ The tooltip appearing when the user hovers over or focuses on the info icon.
     Clone the Repository:
     Bash
 
-    git clone https://github.com/ranggautama47/your-repo-name.git
+    git clone https://github.com/ranggautama47/shadowDom.git
 
     Open the Project: Open index.html directly in any modern web browser that supports Web Components.
 
