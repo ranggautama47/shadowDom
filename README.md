@@ -23,7 +23,7 @@ The tooltip appearing when the user hovers over or focuses on the info icon.
 
 # 📁 Project Structure
 
-
+```
 .
 ├── screenshot/             # Application visual documentation
 
@@ -44,7 +44,7 @@ The tooltip appearing when the user hovers over or focuses on the info icon.
 ├── index.html              # Main HTML file using the custom element
 
 └── README.md               # Project documentation
-
+```
 # 🛠️ Technologies Used
 
     HTML5 & CSS3: For the structural layout and interactive animations.
